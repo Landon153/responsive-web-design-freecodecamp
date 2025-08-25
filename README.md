@@ -85,4 +85,3 @@ Finally, you'll learn how to make webpages that respond to different screen size
 [39]: https://htmlpreview.github.io/?https://github.com/Krasipeace/Responsive-Web-Design---freecodecamp/blob/main/17.%20Product%20Landing%20Page/index.html
 [40]: https://htmlpreview.github.io/?https://github.com/Krasipeace/Responsive-Web-Design---freecodecamp/blob/main/20.%20Personal%20Portfolio%20Webpage/index.html
 
-![Certificate](certificate.png)
